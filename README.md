@@ -1,2 +1,3 @@
-# test-frontend-dev
-javascript repo
+# This dev javascript repository is for frontend developers. 
+Last modified by: penducky.
+                        
